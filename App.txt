@@ -1,0 +1,4 @@
+Signature-based detection: This is where the software compares files to known virus signatures.
+Heuristic analysis: This involves detecting suspicious behavior that might indicate the presence of new or unknown viruses.
+Real-time scanning: Constantly scanning the system for threats.
+Quarantine and removal: Safely removing or isolating infected files.
